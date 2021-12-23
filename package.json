@@ -1,0 +1,13 @@
+{
+    "name": "craco-plugin-external-cdn",
+    "description": "Create React App Configuration Override, an easy and comprehensible configuration layer for create-react-app.",
+    "version": "5.0.0",
+    "scripts": {},
+    "author": "Soedomoto",
+    "license": "Apache-2.0",
+    "devDependencies": {
+        "module-to-cdn": "^3.1.5",
+        "semver": "^7.3.2",
+        "webpack": "^5.65.0"
+    }
+}
